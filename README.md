@@ -1,4 +1,4 @@
-# tupianhualang
+# photo gallery by vue.js
 
 > A Vue.js project
 
